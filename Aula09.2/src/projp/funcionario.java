@@ -1,10 +1,10 @@
 package projp;
 
-public class funcionario extends pessoa {
+public class Funcionario extends Pessoa {
     private String setor;
     private boolean trabalhando = false;
 
-    public funcionario() {
+    public Funcionario() {
     }
 
     public String getSetor() {

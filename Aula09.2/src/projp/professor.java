@@ -1,10 +1,10 @@
 package projp;
 
-public class professor extends pessoa {
+public class Professor extends Pessoa {
     private String especialidade;
     private double salario;
 
-    public professor() {
+    public Professor() {
     }
 
     public String getEspecialidade() {
