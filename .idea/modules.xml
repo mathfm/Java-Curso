@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula07/Aula07.iml" filepath="$PROJECT_DIR$/Aula07/Aula07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula08/Aula08.iml" filepath="$PROJECT_DIR$/Aula08/Aula08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula09.2/Aula09.2.iml" filepath="$PROJECT_DIR$/Aula09.2/Aula09.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula10/Aula10.iml" filepath="$PROJECT_DIR$/Aula10/Aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControleRemoto/ControleRemoto.iml" filepath="$PROJECT_DIR$/ControleRemoto/ControleRemoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerarNumeros/GerarNumeros.iml" filepath="$PROJECT_DIR$/GerarNumeros/GerarNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Curso.iml" filepath="$PROJECT_DIR$/.idea/Java-Curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaExercicios/ListaExercicios.iml" filepath="$PROJECT_DIR$/ListaExercicios/ListaExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cursoemvideo/cursoemvideo.iml" filepath="$PROJECT_DIR$/cursoemvideo/cursoemvideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex01/ex01.iml" filepath="$PROJECT_DIR$/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/principal-p/principal-p.iml" filepath="$PROJECT_DIR$/principal-p/principal-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+    </modules>
+  </component>
+</project>
