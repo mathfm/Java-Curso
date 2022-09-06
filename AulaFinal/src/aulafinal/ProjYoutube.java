@@ -6,7 +6,6 @@ public class ProjYoutube {
         Usuario[] u1 = new Usuario[3];
         v1[0] = new Videos("Teste 01");
         v1[1] = new Videos("Teste 02");
-        v1[2] = new Videos("Teste 03");
 
 
         u1[0] = new Usuario("joao", 22, 'M', "jooj");
